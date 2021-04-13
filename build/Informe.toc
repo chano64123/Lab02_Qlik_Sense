@@ -1,0 +1,19 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}OBJETIVOS}{2}{section.1}%
+\contentsline {section}{\numberline {2}REQUERIMIENTOS}{2}{section.2}%
+\contentsline {section}{\numberline {3}CONSIDERACIONES INICIALES}{2}{section.3}%
+\contentsline {section}{\numberline {4}DESARROLLO}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Crea una nueva aplicación}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Cargar datos}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Revisar datos}{4}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Desarrolle una hoja con el ‘Insight advisor’}{7}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Desarrolle una hoja utilizando ‘Chart suggestion assistance’}{11}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Desarrolle una hoja usando ‘Chart suggestion assistance’ (cont’d)}{14}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Pruebe un tipo de gráfico alternativo sugerido}{17}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Cambie el interruptor de sugerencias de gráficos de ‘on’ a ‘off’}{17}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Desarrollar una hoja sin ayuda}{19}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}Desarrolle una hoja sin ayuda (cont’d)}{20}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}Analizar una hoja}{26}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.12}Contar una historia}{28}{subsection.4.12}%
+\contentsline {section}{\numberline {5}CONCLUSIONES}{31}{section.5}%
+\contentsline {section}{\numberline {6}WEBGRAFIA}{32}{section.6}%
